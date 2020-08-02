@@ -14,6 +14,8 @@ void main()
 					inputFile >> arr[i][j];
 		inputFile.close();
 	}
+	else
+		cout << "Error.";
 
 	// SFML
 	RenderWindow window;
