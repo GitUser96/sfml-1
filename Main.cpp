@@ -62,4 +62,5 @@ void main()
 		window.display();
 	}
 	cout << "Mohamed Elsayed ";
+	cout << "Mohamed Elsayed";
 }
