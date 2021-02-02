@@ -2,7 +2,8 @@
 
 void main()
 {
-	//int arr[ROWS][COLUMNS];
+	int arr[ROWS][COLUMNS];
+	//int x = 5;
 	// Reading from File
 	ifstream inputFile;
 	inputFile.open("Board.txt");
@@ -17,7 +18,7 @@ void main()
 	else
 		cout << "Error.";
 
-	// SFML
+	/* SFML*/
 	RenderWindow window;
 	window.create(VideoMode(800, 800), "Simple Maze");
 
@@ -60,4 +61,6 @@ void main()
 		p.drawOnWindow(window);
 		window.display();
 	}
+	cout << "Mohamed Elsayed ";
+	cout << "Mohamed Elsayed";
 }
