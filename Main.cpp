@@ -2,7 +2,7 @@
 
 void main()
 {
-	int arr[ROWS][COLUMNS];
+	//int arr[ROWS][COLUMNS];
 	// Reading from File
 	ifstream inputFile;
 	inputFile.open("Board.txt");
