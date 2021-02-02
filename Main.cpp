@@ -60,5 +60,6 @@ void main()
 		// window.draw(p.getPlayer());
 		p.drawOnWindow(window);
 		window.display();
+		cout << "hana eissa";
 	}
 }
