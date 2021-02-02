@@ -3,6 +3,7 @@
 void main()
 {
 	int arr[ROWS][COLUMNS];
+	//int x = 5;
 	// Reading from File
 	ifstream inputFile;
 	inputFile.open("Board.txt");
