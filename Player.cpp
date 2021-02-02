@@ -50,4 +50,5 @@ void Player::drawOnWindow(RenderWindow& window)
 CircleShape Player::getPlayer()
 {
 	return circle;
+	cout << "hana eissa";
 }
