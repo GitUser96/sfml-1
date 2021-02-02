@@ -3,6 +3,7 @@
 void main()
 {
 	int arr[ROWS][COLUMNS];
+	int y;
 	//int x = 5;
 	// Reading from File
 	ifstream inputFile;
