@@ -17,7 +17,7 @@ void main()
 	else
 		cout << "Error.";
 
-	// SFML
+	/* SFML*/
 	RenderWindow window;
 	window.create(VideoMode(800, 800), "Simple Maze");
 
