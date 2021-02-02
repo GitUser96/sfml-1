@@ -76,3 +76,4 @@ SouthKorea	6/12/2020	41-50 years	300
 SouthKorea	6/12/2020	51-60 years	20
 SouthKorea	6/12/2020	61-70 years	365
 SouthKorea	6/12/2020	71-80 years	34
+freddy 
